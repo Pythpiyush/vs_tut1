@@ -2,7 +2,7 @@ I am inside text 3.
 
 I am inside branch 1 with text 1.
 
-I am inside branch 1 with text 2.
+I am inside branch 1 wit.
 
 I have added this line for conflict.
 
