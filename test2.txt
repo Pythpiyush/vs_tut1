@@ -1,6 +1,6 @@
 I am inside text.
 
-I am inside branch 1 with text 1.
+I am inside branch 1.
 
 I am inside branch 1 with text 2.
 
