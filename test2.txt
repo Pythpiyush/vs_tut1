@@ -1,5 +1,9 @@
 I am inside text 2.
 
+I am inside branch 1 with text 1.
+
 I am inside branch 1 with text 2.
+
+I have added this line for conflict.
 
 I am testing everything now.
